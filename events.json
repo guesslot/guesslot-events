@@ -1,16 +1,30 @@
 {
-  "0x47BCF17cA45590d7A708a3D70723f0267Da24b27": {
+  "0xfBf56FBE4640e6Ce9045bD6EadAC24013826DdFd": {
     "Starship": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
     }
   },
-  "0xf14B01a32a25f051b877c06a73BAD3d8d9474B2b": {
+  "0x7d9d2839A1247de950773aa300faDcB60AC7D7a6": {
     "Starship": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
+    }
+  },
+  "0x61c56897f775Fd0C288f7ce9Ae242cf546994ba2": {
+    "BTC": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Up", "Down", "Flat"]
+    }
+  },
+  "0x6648337F1c46E71FfF2E78882893fa1fB3F9CEc9": {
+    "BTC": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Up", "Down", "Flat"]
     }
   }
 }
