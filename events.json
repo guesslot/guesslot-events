@@ -4,10 +4,20 @@
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
+    },
+    "Starship1": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Yes", "No"]
     }
   },
   "0x71B4E8513103EE8cB8b15e37B8161b843edD0F3c": {
     "Starship": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Yes", "No"]
+    },
+    "Starship1": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
