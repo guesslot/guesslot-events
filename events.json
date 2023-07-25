@@ -1,23 +1,23 @@
 {
   "0x097F5ADe7583Ce96A3B9A28462Fd3DFb2dD50C43": {
-    "Starship": {
+    "The next launch of Starship": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
     },
-    "Starship1": {
+    "2023 FIFA Women's World Cup": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
     }
   },
   "0x6287a886A83Cb10fC4Ad621e418C356D0776F629": {
-    "Starship": {
+    "The next launch of Starship": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
     },
-    "Starship1": {
+    "2023 FIFA Women's World Cup": {
       "tital": "tital",
       "image": "image",
       "options": ["Yes", "No"]
@@ -28,10 +28,20 @@
       "tital": "tital",
       "image": "image",
       "options": ["Up", "Down", "Flat"]
+    },
+    "ETH": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Up", "Down", "Flat"]
     }
   },
   "0x70e28C858EA9DADAC19600455EEF91A1d9BbcFB9": {
     "BTC": {
+      "tital": "tital",
+      "image": "image",
+      "options": ["Up", "Down", "Flat"]
+    },
+    "ETH": {
       "tital": "tital",
       "image": "image",
       "options": ["Up", "Down", "Flat"]
