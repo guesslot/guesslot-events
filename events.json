@@ -1,49 +1,49 @@
 {
   "0x2F9FAc5aA22F3dD54A430D7E6373333d97616712": {
     "The next launch of Starship": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "When will the next launch of Starship take place?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship.png",
       "options": ["Yes", "No"]
     },
     "2023 FIFA Women's World Cup": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Which country will win the 2023 FIFA Women’s World Cup?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa.png",
       "options": ["Yes", "No"]
     }
   },
   "0xf3d95Dfa3d7e0E6D55241d802d46260238b30A05": {
     "The next launch of Starship": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "When will the next launch of Starship take place?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship.png",
       "options": ["Yes", "No"]
     },
     "2023 FIFA Women's World Cup": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Which country will win the 2023 FIFA Women’s World Cup?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa.png",
       "options": ["Yes", "No"]
     }
   },
   "0x181960204FE9689d9af5EFe8D98c7a4F702BE8DD": {
     "BTC": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Will the price of BTC rise or fall tomorrow?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Will the price of ETH rise or fall tomorrow?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
       "options": ["Up", "Down", "Flat"]
     }
   },
   "0x8B84758323988Bed587c2dC82147Ee91B1CdaC95": {
     "BTC": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Will the price of BTC rise or fall tomorrow?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
-      "tital": "tital",
-      "image": "image",
+      "tital": "Will the price of ETH rise or fall tomorrow?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
       "options": ["Up", "Down", "Flat"]
     }
   }
