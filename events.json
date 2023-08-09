@@ -3,11 +3,13 @@
     "The next launch of Starship": {
       "tital": "When will the next launch of Starship take place?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship-banner.png",
       "options": ["Yes", "No"]
     },
     "2023 FIFA Women's World Cup": {
       "tital": "Which country will win the 2023 FIFA Women’s World Cup?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa-banner.png",
       "options": ["Yes", "No"]
     }
   },
@@ -15,11 +17,13 @@
     "The next launch of Starship": {
       "tital": "When will the next launch of Starship take place?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship-banner.png",
       "options": ["Yes", "No"]
     },
     "2023 FIFA Women's World Cup": {
       "tital": "Which country will win the 2023 FIFA Women’s World Cup?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa-banner.png",
       "options": ["Yes", "No"]
     }
   },
@@ -27,11 +31,13 @@
     "The next launch of Starship": {
       "tital": "When will the next launch of Starship take place?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/starship-banner.png",
       "options": ["Yes", "No"]
     },
     "2023 FIFA Women's World Cup": {
       "tital": "Which country will win the 2023 FIFA Women’s World Cup?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/fifa-banner.png",
       "options": ["Yes", "No"]
     }
   },
@@ -39,11 +45,13 @@
     "BTC": {
       "tital": "Will the price of BTC rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc-banner.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
       "tital": "Will the price of ETH rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
       "options": ["Up", "Down", "Flat"]
     }
   },
@@ -51,11 +59,13 @@
     "BTC": {
       "tital": "Will the price of BTC rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc-banner.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
       "tital": "Will the price of ETH rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
       "options": ["Up", "Down", "Flat"]
     }
   },
@@ -63,11 +73,13 @@
     "BTC": {
       "tital": "Will the price of BTC rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/btc-banner.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
       "tital": "Will the price of ETH rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
       "options": ["Up", "Down", "Flat"]
     }
   }
