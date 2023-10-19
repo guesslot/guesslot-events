@@ -38,7 +38,7 @@
       "tital": "Will the price of ETH rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
-      "options": ["Up", "Down", "Flat"]
+      "options": ["Netherlands", "Ireland", "Draw"]
     }
   },
   "0xcf8C88Ce0F779c87E93ebA024F34b5c583546Ec4": {
@@ -52,7 +52,7 @@
       "tital": "Will the price of ETH rise or fall tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
-      "options": ["Up", "Down", "Flat"]
+      "options": ["Netherlands", "Ireland", "Draw"]
     }
   }
 }
