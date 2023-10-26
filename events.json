@@ -54,5 +54,85 @@
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/images/eth-banner.png",
       "options": ["Up", "Down", "Flat"]
     }
+  },
+  "0xf9dcF16aa41caB681f99172051385694D475C4d3": {
+    "BTC": {
+      "tital": "What will the BTC price be in the next 10 minutes?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC2.png",
+      "options": ["Up", "Down", "Flat"]
+    },
+    "ETH": {
+      "tital": "What will the ETH price be in the next 10 minutes?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH2.png",
+      "options": ["Up", "Down", "Flat"]
+    },
+    "MATIC": {
+      "tital": "What will the MATIC price be in the next 10 minutes?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/MATIC1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/MATIC2.png",
+      "options": ["Up", "Down", "Flat"]
+    }
+  },
+  "0x08936047A8905fae2C7DE9Dc3B427431730E276E": {
+    "BTC": {
+      "tital": "What will the BTC price be next week?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC2.png",
+      "options": ["Up", "Down", "Flat"]
+    },
+    "ETH": {
+      "tital": "What will the ETH price be next week?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH2.png",
+      "options": ["Up", "Down", "Flat"]
+    }
+  },
+  "0x460bD430D93F0945e5868D212FA6ce8AA4e962fe": {
+    "Starship 2nd Launch Time": {
+      "tital": "When will the next launch of Starship take place?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
+      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "After Q1 2024"]
+    },
+    "FOMC Meeting Nov 2023": {
+      "tital": "Will the Federal Reserve decide to raise the federal funds rate in November?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/FOMC1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/FOMC2.png",
+      "options": ["Yes", "No"]
+    },
+    "Israel and Hamas Ceasefire in 2023": {
+      "tital": "Can Israel and Hamas reach a ceasefire agreement in 2023?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/War1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/War2.png",
+      "options": ["Yes", "No"]
+    },
+    "Netherlands vs Ireland in Euro Qualifying": {
+      "tital": "Who will win the match Netherlands vs Ireland in European Championship 2024 qualifying?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/NEDvsIRE1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/NEDvsIRE2.png",
+      "options": ["Netherlands", "Ireland", "Draw"]
+    },
+    "Poland vs Czechia in Euro Qualifying": {
+      "tital": "Who will win the match Poland vs Czechia in European Championship 2024 qualifying?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/POLvsCZE1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/POLvsCZE2.png",
+      "options": ["Poland", "Czechia", "Draw"]
+    },
+    "Thailand vs China in World Cup Qualifying": {
+      "tital": "Who will win the match Thailand vs China in FIFA World Cup 2026 qualifying?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/THDvsCHN1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/THDvsCHN2.png",
+      "options": ["Thailand", "China", "Draw"]
+    }
+  },
+  "0x3077E58B49e5199c052Ea0caDEe2533b77994815": {
+    "Starship 2nd Launch Time": {
+      "tital": "When will the next launch of Starship take place?",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
+      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "After Q1 2024"]
+    }
   }
 }
