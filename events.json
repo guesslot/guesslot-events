@@ -102,25 +102,25 @@
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/FOMC2.png",
       "options": ["Yes", "No"]
     },
-    "Israel and Hamas Ceasefire in 2023": {
+    "Israel and Hamas": {
       "tital": "Can Israel and Hamas reach a ceasefire agreement in 2023?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/War1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/War2.png",
       "options": ["Yes", "No"]
     },
-    "Netherlands vs Ireland in Euro Qualifying": {
+    "Netherlands vs Ireland": {
       "tital": "Who will win the match Netherlands vs Ireland in European Championship 2024 qualifying?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/NEDvsIRE1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/NEDvsIRE2.png",
       "options": ["Netherlands", "Ireland", "Draw"]
     },
-    "Poland vs Czechia in Euro Qualifying": {
+    "Poland vs Czechia": {
       "tital": "Who will win the match Poland vs Czechia in European Championship 2024 qualifying?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/POLvsCZE1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/POLvsCZE2.png",
       "options": ["Poland", "Czechia", "Draw"]
     },
-    "Thailand vs China in World Cup Qualifying": {
+    "Thailand vs China": {
       "tital": "Who will win the match Thailand vs China in FIFA World Cup 2026 qualifying?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/THDvsCHN1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/THDvsCHN2.png",
