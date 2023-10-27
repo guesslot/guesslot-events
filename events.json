@@ -70,8 +70,8 @@
     },
     "MATIC": {
       "tital": "What will the MATIC price be in the next 10 minutes?",
-      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/MATIC1.png",
-      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/MATIC2.png",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Matic1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Matic2.png",
       "options": ["Up", "Down", "Flat"]
     }
   },
