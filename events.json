@@ -57,19 +57,19 @@
   },
   "0x71715879f058cCBE942686DF5E787a64f324335d": {
     "BTC": {
-      "tital": "What will the BTC price be in the next 10 minutes?",
+      "tital": "What will the BTC price be tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/BTC2.png",
       "options": ["Up", "Down", "Flat"]
     },
     "ETH": {
-      "tital": "What will the ETH price be in the next 10 minutes?",
+      "tital": "What will the ETH price be tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ETH2.png",
       "options": ["Up", "Down", "Flat"]
     },
     "MATIC": {
-      "tital": "What will the MATIC price be in the next 10 minutes?",
+      "tital": "What will the MATIC price be tomorrow?",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Matic1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Matic2.png",
       "options": ["Up", "Down", "Flat"]
