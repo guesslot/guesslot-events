@@ -108,7 +108,7 @@
       "obj": "Starship 2nd Launch Time",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
-      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "After Q1 2024"]
+      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "NOV 2023"]
     },
     "FOMC Meeting Nov 2023": {
       "tital": "Will the Federal Reserve decide to raise the federal funds rate in November?",
@@ -152,7 +152,7 @@
       "obj": "Starship 2nd Launch Time",
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
-      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "After Q1 2024"]
+      "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "NOV 2023"]
     }
   }
 }
