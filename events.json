@@ -153,6 +153,48 @@
       "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
       "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
       "options": ["DEC 2023", "JAN 2024", "FEB 2024", "MAR 2024", "NOV 2023"]
+    },
+    "Starship 3rd Test Time": {
+      "tital": "When will the Starship’s 3rd integrated flight test take place?",
+      "obj": "Starship 3rd Test Time",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/Starship2.png",
+      "options": ["Before Dec 15", "Before Dec 31", "After Dec 31"]
+    },
+    "FOMC Meeting Dec 2023": {
+      "tital": "What decisions will the Federal Reserve make for the federal funds rate in December?",
+      "obj": "FOMC Meeting Dec 2023",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/FOMC1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/FOMC2.png",
+      "options": ["Raise", "Lower", "Maintain"]
+    },
+    "Man United vs Bayern": {
+      "tital": "Who will win the match Man United vs Bayern in the UEFA Champions League?",
+      "obj": "Man United vs Bayern",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ManvsBayern1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/ManvsBayern2.png",
+      "options": ["Man United", "Bayern", "Draw"]
+    },
+    "Dortmund vs Paris": {
+      "tital": "Who will win the match Dortmund vs Paris in the UEFA Champions League?",
+      "obj": "Dortmund vs Paris",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/DortvsParis1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/DortvsParis2.png",
+      "options": ["Dortmund", "Paris", "Draw"]
+    },
+    "Knicks vs Bucks": {
+      "tital": "Who will win the game Knicks vs Bucks in the NBA East Quarterfinal?",
+      "obj": "Knicks vs Bucks",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/KnicksvsBucks1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/KnicksvsBucks2.png",
+      "options": ["Knicks", "Bucks", "Draw"]
+    },
+    "Suns vs Lakers": {
+      "tital": "Who will win the game Suns vs Lakers in the NBA West Quarterfinal?",
+      "obj": "Suns vs Lakers",
+      "image": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/SunsvsLakers1.png",
+      "banner": "https://raw.githubusercontent.com/guesslot/guesslot-events/main/mainnet/SunsvsLakers2.png",
+      "options": ["Suns", "Lakers", "Draw"]
     }
   }
 }
